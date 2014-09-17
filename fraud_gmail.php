@@ -67,7 +67,7 @@ function fgf_settings_page(){
 	echo '
 	<div class="col-lg-10">
 		<h2>Set domains which are not allowed</h2>
-		'.settings_errors().'
+		
 		<blockquote class="bs-callout bs-callout-info">
 			  <p>Adding domain names to this list will prevent signups from those domains. Please press enter after every <strong>Doamin Name</strong>.<br>
 			  Leave it empty if you don\'t want to block any domain.</p>
