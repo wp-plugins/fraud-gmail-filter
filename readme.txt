@@ -3,7 +3,7 @@ Contributors: saaiful
 Donate link: 
 Tags: Fraud Gmail Filter, Clone Gmail Filter, Doteted Gmail Filter
 Requires at least: 4.0
-Tested up to: 3.4
+Tested up to: 4.1
 Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -30,6 +30,8 @@ I decided to solve this issue , so i wrote a plugin which prevent bad guys from 
 1. The settings page
 
 == Changelog ==
+= 0.0.3 =
+* compatibility update
 
 = 0.0.3 =
 * Option page added
